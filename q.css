@@ -161,7 +161,7 @@ body {background-color: white;
 .finance1 {
    
     
-    max-width: 800px;      
+    max-width: autopx;      
     margin: 30px;    
     padding-top: 0px;   
     padding-left: 20px;      
